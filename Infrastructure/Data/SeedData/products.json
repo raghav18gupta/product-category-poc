@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Boat Headphone",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/headphone/1.png",
+    "CategoryId": 1
+  },
+  {
+    "Name": "Levis 100",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/shirt/1.png",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Levis 200",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 1000,
+    "PictureUrl": "images/shirt/2.png",
+    "CategoryId": 2
+  },
+  {
+    "Name": "Lenovo",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/laptop/1.png",
+    "CategoryId": 3
+  },
+  {
+    "Name": "HP",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 200,
+    "PictureUrl": "images/laptop/2.png",
+    "CategoryId": 3
+  }
+]
